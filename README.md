@@ -1,0 +1,2 @@
+# grievances_multiclass_prediction
+This is multiclass classification problem. In this problem, we are given a dataset that contains grievances of various people living in a country. Our task is to predict the importance of the grievance with respect to various articles, constitutional declarations, enforcement, resources, and so on, to help the government prioritize which ones to deal with and when.
